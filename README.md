@@ -2,7 +2,7 @@
 Bu proje, bir yapay zeka uygulamasının fikirden bulut ortamına taşınması sürecini (App-preneurship) temsil eder.
 
 ## 🚀 Canlı Demo
-(Burayı 3. adımda Render'dan alacağımız linkle güncelleyeceğiz)
+https://triplinx.onrender.com
 
 ## 🏗️ Mimari Yapı
 - **Backend:** Node.js & Express
