@@ -1,8 +1,9 @@
 # ✈️ Triplinx AI - Akıllı Seyahat Asistanı
 Bu proje, bir yapay zeka uygulamasının fikirden bulut ortamına taşınması sürecini (App-preneurship) temsil eder.
 
-## 🚀 Canlı Demo
-https://triplinx.onrender.com
+## 🚀 Canlı Uygulama Linkleri
+- **Ana Sayfa:** [https://triplinx.onrender.com](https://triplinx.onrender.com)
+- **AI Planlama Testi (API):** (https://triplinx.onrender.com/api/plan?destination=Paris&budget=15000)
 
 ## 🏗️ Mimari Yapı
 - **Backend:** Node.js & Express
